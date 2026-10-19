@@ -1,0 +1,5 @@
+/classes/database.local.php
+/.env
+/.env.*
+*.sql
+*.sql.gz
